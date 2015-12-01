@@ -9,7 +9,7 @@
 import UIKit
 
 //let JSON_URL = "https://raw.githubusercontent.com/cuappdev/trainingProgramResources/master/Lecture5JSON.json"
-let JSON_URL = "https://raw.githubusercontent.com/btj29/CUAppDevTrainingProject5/master/JSON_File.json"
+let JSON_URL = "https://raw.githubusercontent.com/btj29/CUAppDevProject5/master/JSON_File.json"
 
 class ViewController: UIViewController, UITableViewDataSource {
 
