@@ -1,0 +1,53 @@
+[
+        {
+            "fname": "Eric",
+            "lname": "Appel",
+            "email": [
+                "eric@gmail.com",
+                "info@cuappdev.org",
+            ],
+            "phone": "(152) 555-5321",
+            "picture": "https://scontent-a-lga.xx.fbcdn.net/hphotos-xpa1/t31.0-8/1559294_10205035377430945_1129733074208269684_o.jpg"
+        },
+        {
+            "fname": "Lucas",
+            "lname": "Derraugh",
+            "email": "lucas@cuappdev.org",
+            "phone": "(134) 555-1134",
+            "picture": "https://scontent-ord1-1.xx.fbcdn.net/hphotos-xat1/t31.0-8/11312992_10203970601057656_29618109749126017_o.jpg"
+        },
+        {
+            "fname": "Feifan",
+            "lname": "Zhou",
+            "email": "feifan@tunetap.com",
+            "phone": "(123) 456-5432",
+            "picture": "https://scontent-b-lga.xx.fbcdn.net/hphotos-xap1/t31.0-8/10387050_665555910165227_2032361056304072307_o.jpg"
+        },
+        {
+            "fname": "Steven",
+            "lname": "Yeh",
+            "email": [
+                "steven@yeh.com",
+                "vp@ops.com",
+            ],
+            "phone": "(152) 555-5321",
+            "picture": "https://scontent-ord1-1.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/12144871_10206841309864569_3324705432898427151_n.jpg?oh=3e85db19e29c77041d6312466a8d9aeb&oe=56C00AFC"
+        },
+        {
+            "fname": "Walker",
+            "lname": "White",
+            "email": "walker@white.com",
+            "phone": "(098) 765-4321",
+            "picture": "http://vignette1.wikia.nocookie.net/gameofthrones/images/0/0c/White_Walkers.png"
+        },
+        {
+            "fname": "Bernard",
+            "lname": "Jiang",
+            "email": [
+                "150522@edu",
+                "b@gmail.com",
+            ],
+            "phone": "(---) ___-____",
+            "picture": "https://scontent-lga3-1.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/10906411_715135895267534_474223850924584494_n.jpg?oh=7bbfe3d4982fc9302fea23267d48c1c7&oe=56CD76FA"
+        }
+    ]
